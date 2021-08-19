@@ -16,4 +16,4 @@
   - name: Install ncdu
     apt:
       name: ncdu
-      state: present
+      state: absent
